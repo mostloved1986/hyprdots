@@ -8,13 +8,11 @@ gst-plugin-pipewire                                    # pipewire gstreamer clie
 wireplumber                                            # pipewire session manager
 pavucontrol                                            # pulseaudio volume control
 pamixer                                                # pulseaudio cli mixer
-networkmanager                                         # network manager
 network-manager-applet                                 # network manager system tray utility
 bluez                                                  # bluetooth protocol stack
 bluez-utils                                            # bluetooth utility cli
 blueman                                                # bluetooth manager gui
 brightnessctl                                          # screen brightness control
-udiskie                                                # manage removable media
 
 # --------------------------------------------------- // Display Manager
 sddm                                                   # display manager for KDE plasma
@@ -63,17 +61,21 @@ firefox                                                # browser
 kitty                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
-vim                                                    # terminal text editor
+neovim                                                 # terminal text editor
 code                                                   # ide text editor
+steam
+spotify 
+spicetify-cli
+cava
+btop
+ranger
+tmux
+
 
 # --------------------------------------------------- // Shell
-eza|zsh                                                # file lister for zsh
-oh-my-zsh-git|zsh                                      # plugin manager for zsh
-zsh-theme-powerlevel10k-git|zsh oh-my-zsh-git          # theme for zsh
 lsd|fish                                               # file lister for fish
 starship|fish                                          # customizable shell prompt
-fastfetch                                              # system information fetch tool
-pokemon-colorscripts-git|zsh                           # display pokemon sprites
+neofetch                                              # system information fetch tool
 
 # --------------------------------------------------- // HyDE
 hyde-cli-git                                           # cli tool to manage hyde
