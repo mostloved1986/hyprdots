@@ -1,4 +1,3 @@
-N|Y|${HOME}|.zshrc .p10k.zsh|zsh oh-my-zsh-git zsh-theme-powerlevel10k pokemon-colorscripts-git
 N|Y|${HOME}/.config/Code/User|settings.json|visual-studio-code-bin
 N|Y|${HOME}/.config/Code - OSS/User|settings.json|code
 N|Y|${HOME}/.config|spotify-flags.conf|spotify
@@ -18,10 +17,10 @@ Y|Y|${HOME}/.config|qt5ct|qt5ct
 Y|Y|${HOME}/.config|qt6ct|qt6ct
 Y|Y|${HOME}/.config|rofi|rofi
 Y|Y|${HOME}/.config|ranger|ranger
-Y|Y|${HOME}/.config|spicetify|spicetify-cli
+Y|Y|${HOME}/.config|spicetify/Themes/Synth/color.ini|spicetify-cli
 Y|Y|${HOME}/.config|nvim|neovim
 Y|Y|${HOME}/.config|cava|cava
-Y|Y|${HOME}/.config|starship|starship.toml
+Y|Y|${HOME}/.config|starship.toml|starship
 Y|Y|${HOME}/.config|swaylock|swaylock-effects
 Y|Y|${HOME}/.config/waybar|modules config.jsonc style.css theme.css|waybar
 Y|Y|${HOME}/.config/waybar|config.ctl|waybar
@@ -29,9 +28,11 @@ Y|Y|${HOME}/.config|wlogout|wlogout
 Y|Y|${HOME}/.config|xsettingsd nwg-look gtk-3.0|nwg-look
 Y|Y|${HOME}/.icons|default|nwg-look
 Y|Y|${HOME}|.gtkrc-2.0|nwg-look
+Y|Y|${HOME}|.tmux.conf|tmux
 Y|Y|${HOME}/.config|dolphinrc kdeglobals|dolphin
 Y|Y|${HOME}/.config/menus|applications.menu|dolphin
 Y|Y|${HOME}/.local/share|dolphin|dolphin
 Y|Y|${HOME}/.local/share/kxmlgui5|dolphin|dolphin
 Y|Y|${HOME}/.local/share/kio/servicemenus|hydewallpaper.desktop|dolphin
 N|Y|${HOME}/.config|libinput-gestures.conf|libinput-gestures
+
