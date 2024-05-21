@@ -19,6 +19,11 @@ Y|Y|${HOME}/.config|fastfetch|fastfetch
 Y|Y|${HOME}/.config|qt5ct|qt5ct
 Y|Y|${HOME}/.config|qt6ct|qt6ct
 Y|Y|${HOME}/.config|rofi|rofi
+Y|Y|${HOME}/.config|ranger|ranger
+Y|Y|${HOME}/.config|spicetify|spicetify-cli
+Y|Y|${HOME}/.config|nvim|neovim
+Y|Y|${HOME}/.config|cava|cava
+Y|Y|${HOME}/.config|starship|starship.toml
 Y|Y|${HOME}/.config|swaylock|swaylock-effects
 Y|Y|${HOME}/.config/waybar|modules config.jsonc style.css theme.css|waybar
 Y|Y|${HOME}/.config/waybar|config.ctl|waybar
