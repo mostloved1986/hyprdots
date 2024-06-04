@@ -63,7 +63,8 @@ ark                                                    # kde file archiver
 neovim                                                 # terminal text editor
 code                                                   # ide text editor
 steam
-spotify 
+spotify
+spicetify-cli
 cava
 btop
 ranger
@@ -73,7 +74,7 @@ tmux
 # --------------------------------------------------- // Shell
 lsd|fish                                               # file lister for fish
 starship|fish                                          # customizable shell prompt
-neofetch                                              # system information fetch tool
+fastfetch                                              # system information fetch tool
 
 # --------------------------------------------------- // HyDE
 hyde-cli-git                                           # cli tool to manage hyde
